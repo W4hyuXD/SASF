@@ -1,6 +1,7 @@
 <h1 align="center">SASF</h1>
 <p align="center">Auto Share Your Posts Use Cookies Facebook</p>
 
+- Instalasi
 ```bash
 pkg update -y && pkg upgrade -y
 pkg i -y git python python3
