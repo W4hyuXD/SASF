@@ -10,5 +10,11 @@ git clone https://github.com/WahyuuXD/SASF
 cd SASF
 python3 Run.py
 ```
+- Update Repository
+  ```bash
+  cd SASF
+  git pull
+  python3 Run.py
+  ```
 
 <img src="/img/Simple.png">
