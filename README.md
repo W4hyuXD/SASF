@@ -7,7 +7,7 @@ pkg update -y && pkg upgrade -y
 pkg i -y git python python3
 pip install requests
 pip install bs4 mechanize rich stdiomask
-git clone https://github.com/WahyuuXD/SASF
+git clone https://github.com/W4hyuXD/SASF
 cd SASF
 python3 Run.py
 ```
