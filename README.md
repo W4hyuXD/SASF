@@ -19,3 +19,6 @@ python3 Run.py
   ```
 
 <img src="/img/Simple.png">
+
+```python
+print("Good Luck!")
