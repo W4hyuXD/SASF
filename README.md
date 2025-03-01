@@ -1,6 +1,10 @@
 <h1 align="center">SASF</h1>
 <p align="center">Auto Share Your Posts Use Cookies Facebook</p>
 
+## ☕ Orang baik
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wahyuww567)
+
 - Instalasi
 ```bash
 pkg update -y && pkg upgrade -y
